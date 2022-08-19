@@ -1,5 +1,5 @@
 ## Hi there, I am a 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Web+Mobile+Blockchain+Developer;JavaScript+Enthusiast;Artisan+Lover;Social+Media+Influencer;and+Film+Maker!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Web+Mobile+Blockchain+Developer;JavaScript+Enthusiast!;)](https://git.io/typing-svg)
 
 <img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" />
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
@@ -117,72 +117,24 @@
 
 ---
 
-### Research 
-
-<a href="https://www.researchgate.net/publication/330912896_ARE_THE_SRI_LANKAN_CYBER_CRIME_LAWS_SUFFICIENT_TO_SAFEGUARD_TO_IT_PROFESSIONALS_AND_THE_VICTIMS_OF_THE_CYBER_ATTACKS"><img alt="Researchgate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&logo=ResearchGate&logoColor=white"></a>
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Rising Srilanka](https://www.youtube.com/watch?v=9E92mYNIepA)
-- [An Island paradise - Wonder of Asia](https://www.youtube.com/watch?v=oOgxKIV641o)
-- [Sri Lankan Airlines - Trailer](https://www.youtube.com/watch?v=U9oPv_T2k8g)
-- [Sri  Lanka - Cinematic Travel Film](https://www.youtube.com/watch?v=wfhQf8EcSXU)
-- [Beach Sides of Sri Lanka.](https://www.youtube.com/watch?v=imBeu23sUf8)
-<!-- YOUTUBE:END -->
-
-
-➡️ [more videos...](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
-
----
-
-### 📺 Codingtricks YouTube Videos 
-
-<!-- BLOG-POST-LIST:START -->
-- [Publish Docker Image to AWS ECR using Jenkins](https://www.youtube.com/watch?v=tQaruk4z2to)
-- [Install SonarQube on Ubuntu](https://www.youtube.com/watch?v=iu6YCHA8iZ8)
-- [Install WordPress on AWS Lightsail](https://www.youtube.com/watch?v=H2z02sHiobs)
-- [How to Set Up an Nginx Reverse Proxy for Apache](https://www.youtube.com/watch?v=vuH1HQTrtWQ)
-- [How to Create Elastic IP in AWS and assign to EC2 instance](https://www.youtube.com/watch?v=PpyqSEuGqiY)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCCZT71rHQ175Du-1tEviVBA)
-
----
-
-### 📚 Latest Blog Posts
-
-<!-- BLOG:START -->
-- [Getting Started with Laravel in CodeLobster IDE | Codingtricks-Technology for Innovators](https://codingtricks.io/getting-started-with-laravel-in-codelobster-ide/)
-- [Tag: Artificial Intelligence | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/Artificial-Intelligence/)
-- [Some Useful Laravel Packages | Codingtricks-Technology for Innovators](https://codingtricks.io/some-useful-laravel-packages/)
-- [Run Ansible Playbook from Jenkins by Executing Shell Command | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins-by-executing-shell-command/)
-- [Laravel Factories, Seeder | Codingtricks-Technology for Innovators](https://codingtricks.io/generate-dummy-laravel-data-with-model-factories-seeder/)
-<!-- BLOG:END -->
-➡️ [more posts...](https://codingtricks.io)
-
----
-
 <!-- markdownlint-disable MD033 -->
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=dinushchathurya)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=optimizer55786)
 
 </details>
 
 <details>
   <summary>📊 Github Stats</summary>
 <br><br>
-  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
+  <img alt="Optimizer Github Stats" src="https://github-readme-stats.vercel.app/api?username=optimizer55786&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
 </details>
 
 <details>
   <summary>&#11088 Language Stats</summary>
 <br><br>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=optimizer55786&theme=algolia&langs_count=15&layout=compact" />
 
 </details>
 
