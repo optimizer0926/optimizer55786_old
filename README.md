@@ -128,7 +128,7 @@
 <details>
   <summary>📊 Github Stats</summary>
 <br><br>
-  <img alt="Optimizer Github Stats" src="https://github-readme-stats.vercel.app/api?username=optimizer55786&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
+  <img alt="Optimizer Github Stats" src="https://github-readme-stats.vercel.app/api?username=Optimizer&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
 </details>
 
 <details>
