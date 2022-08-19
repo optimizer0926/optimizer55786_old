@@ -1,14 +1,14 @@
-## Hi there, I am Dinush Chathurya
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;YouTuber;and+Film+Maker!;)](https://git.io/typing-svg)
+## Hi there, I am a 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Web+Mobile+Blockchain+Developer;JavaScript+Enthusiast;Artisan+Lover;Social+Media+Influencer;and+Film+Maker!;)](https://git.io/typing-svg)
 
 <img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" />
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> -->
 
-- 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/), [Explore Srilanka](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
+- 🔭 I have just finished working on  [bamzonia.co.nz](http://upgrade.bamzonia.co.nz)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Participate in Talented Software Team and Contribute more
 - ⚡ Fun fact: I love to read & hiking
 
 ### Languages 
@@ -26,16 +26,15 @@
 ---
 ### Frameworks
 
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
-<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Ionic-3880FF?&logo=ionic&logoColor=white" ></a>
+<a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
+<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
+<a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" ></a>
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a> -->
-<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> -->
-<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
+<a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a> -->
+<!-- <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> -->
+<!-- <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
 
 ---
 
