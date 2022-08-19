@@ -63,97 +63,12 @@
 
 ---
 
-### IDES
-
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&logo=sublime-text&logoColor=important"></a>
-
----
-
-### Version Controlling
-
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Git-black?&logo=git" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Bitbucket-330F63?&logo=bitbucket&logoColor=white" ></a>
-
----
-
-### OS
-
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
-
----
-
-### Browsers
-
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Google_chrome-4285F4?&logo=Google-chrome&logoColor=white" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Firefox_Browser-FF7139?&logo=Firefox-Browser&logoColor=white" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" ></a>
-
----
-
-### Workspace
-
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/AMD-Radeon_R5-ED1C24?&logo=amd&logoColor=white" ></a>
-
----
-
 ### Software and Other Tools
 
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-
----
-
-### Opensource
-
-<a href="https://packagist.org/packages/dinushchathurya/"><img alt="OBS Studio" src="https://img.shields.io/badge/Packagist-F28D1A?logo=packagist&logoColor=white"></a>
-<a href="https://www.npmjs.com/~dinush"><img alt="OBS Studio" src="https://img.shields.io/badge/Npm-181717?logo=npm&logoColor=white"></a>
-<a href="https://www.kaggle.com/dinushchathurya"><img alt="OBS Studio" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"></a>
-
----
-
-<!-- markdownlint-disable MD033 -->
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=optimizer55786)
-
-</details>
-
-<details>
-  <summary>📊 Github Stats</summary>
-<br><br>
-  <img alt="Optimizer Github Stats" src="https://github-readme-stats.vercel.app/api?username=optimizer55786&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
-</details>
-
-<details>
-  <summary>&#11088 Language Stats</summary>
-<br><br>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=optimizer55786&theme=algolia&langs_count=15&layout=compact" />
-
-</details>
-
-<details>
-  <summary>&#127943 Stackoverflow Stats</summary>
-  <br><br>
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
-
-</details>
-
-<details>
-<summary>🔥 Streak stats</summary>
-<br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinushchathurya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-</details>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
