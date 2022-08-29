@@ -26,6 +26,7 @@
 ---
 ### Frameworks
 
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&logoColor" ></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
