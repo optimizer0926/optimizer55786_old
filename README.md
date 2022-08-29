@@ -32,7 +32,7 @@
 <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
 <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/Codeigniter%20-%23404d59.svg?logo=codeigniter&logoColor=white"> </a>
-<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" ></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-21759B?logo=nodedotjs&logoColor=white" ></a>
 
 <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
