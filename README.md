@@ -39,7 +39,7 @@
 <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI-black?&logo=mui&logoColor" ></a>
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
  -->
-<!-- <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> -->
+<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a>
 <!-- <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
 
 ---
