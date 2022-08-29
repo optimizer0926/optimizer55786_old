@@ -5,7 +5,7 @@
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> -->
 
-- 🔭 I have just finished working on  [bamzonia.co.nz](http://upgrade.bamzonia.co.nz)
+- 🔭 I have just finished working on  [upgrade.bamzonia.co.nz](http://upgrade.bamzonia.co.nz)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Participate in Talented Software Team and Contribute more
