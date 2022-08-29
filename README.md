@@ -29,6 +29,7 @@
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&logoColor" ></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a>
 <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
 <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/Codeigniter%20-%23404d59.svg?logo=codeigniter&logoColor=white"> </a>
@@ -39,7 +40,6 @@
 <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI-black?&logo=mui&logoColor" ></a>
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
  -->
-<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a>
 <!-- <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
 
 ---
