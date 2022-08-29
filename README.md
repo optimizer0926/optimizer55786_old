@@ -27,7 +27,7 @@
 ### Frameworks
 
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&logoColor" ></a>
-<a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a>
+<a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue&logoColor=4FC08D" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
 <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
