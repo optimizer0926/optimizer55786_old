@@ -75,6 +75,7 @@
 ### Connect with me
 
 [<img src="https://img.shields.io/badge/Skype-1DA1F2?&logo=skype&logoColor=white"/>](https://join.skype.com/B8ZeIlCRHT4k)
+[<img src="https://img.shields.io/badge/Telegram-1DA1F2?&logo=telegram&logoColor=white"/>](https://t.me/optimizedsolution)
 <!-- [<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/dinush.chathurya)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/DinushChathurya)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dinushchathurya)
