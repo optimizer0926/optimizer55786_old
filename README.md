@@ -1,14 +1,14 @@
-## Hi there, I am a 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Web+Mobile+Blockchain+Developer;JavaScript+Enthusiast!;)](https://git.io/typing-svg)
+<!-- ## Hi there, I am a  -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Web+Mobile+Blockchain+Developer;JavaScript+Enthusiast!;)](https://git.io/typing-svg) -->
 
 <!-- <img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" /> --!>
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> -->
 
-- 🌱 I’m currently learning everything 🤣
+<!-- - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Participate in Talented Software Team and Contribute more
-- ⚡ Fun fact: I love to read & hiking
+- ⚡ Fun fact: I love to read & hiking -->
 
 <!-- ### Languages  -->
 
@@ -22,7 +22,7 @@
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a> -->
 <!-- <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a> -->
 
----
+<!-- --- -->
 <!-- ### Frameworks -->
 
 <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&logoColor" ></a>
@@ -38,14 +38,14 @@
  -->
 <!-- <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
 
----
+<!-- --- -->
 <!-- ### UI Library
 
 <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
 <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI-black?&logo=mui&logoColor" ></a> -->
 
----
+<!-- --- -->
 <!-- ### Databases
 
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -70,7 +70,7 @@
 <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"></a> -->
 
----
+<!-- --- -->
 
 <!-- ### Connect with me -->
 
