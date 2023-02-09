@@ -10,49 +10,49 @@
 - 🥅 2023 Goals: Participate in Talented Software Team and Contribute more
 - ⚡ Fun fact: I love to read & hiking
 
-### Languages 
+<!-- ### Languages  -->
 
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
+<!-- <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" ></a>
 <a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" ></a>
 <a href="#"><img alt="TS" src="https://img.shields.io/badge/TypeScript%20-%2343853D.svg?logo=typescript&logoColor=white" ></a>
 <a href="#"><img alt="RUBY" src="https://img.shields.io/badge/Ruby%20-%2343853D.svg?logo=ruby&logoColor=white" ></a>
-<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" ></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a> -->
 <!-- <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a> -->
 
 ---
-### Frameworks
+<!-- ### Frameworks -->
 
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&logoColor" ></a>
+<!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?&logo=react&logoColor" ></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a>
 <a href="#"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Rub on Rails-0769AD?&logo=ruby-on-rails&logoColor=white" ></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
 <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/Codeigniter%20-%23404d59.svg?logo=codeigniter&logoColor=white"> </a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-21759B?logo=nodedotjs&logoColor=white" ></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-21759B?logo=nodedotjs&logoColor=white" ></a> -->
 
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
  -->
 <!-- <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
 
 ---
-### UI Library
+<!-- ### UI Library
 
 <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
-<a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI-black?&logo=mui&logoColor" ></a>
+<a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI-black?&logo=mui&logoColor" ></a> -->
 
 ---
-### Databases
+<!-- ### Databases
 
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%20-%23404d59.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="FIREBASE" src="https://img.shields.io/badge/Firebase-007ACC?&logo=firebase" ></a>
-
+ -->
 <!-- ---
 
 ### Hosting
